@@ -1,0 +1,4 @@
+Task list:
+Write up product spec
+Write up design doc
+Begin implementation
