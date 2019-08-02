@@ -56,7 +56,7 @@ Many users should be able to create their own cloud-based collections to create 
       * \[ ] GET animation based on filters
       * \[ ] RED login/account creation
       * \[ ] RED UI for location collection privacy
-3.  \[ ] RED Phone apps!
+3.  RED Phone apps!
     * \[ ] UI elements in Web App front end
     * \[ ] Delay upload until connection available
 
