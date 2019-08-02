@@ -33,8 +33,8 @@ Many users should be able to create their own cloud-based collections to create 
 # Technical Reqs
 
 1.	GREEN Back end/ processing unit for assembling the video or gif
-    [x] GIF seems to be the place to start, add option for video later
-    [x] Use Python as backend programming language
+    [] GIF seems to be the place to start, add option for video later
+    [] Use Python as backend programming language
 2.	YELLOW Web App (cloud based? Docker or leveraging cloud provider stuff)
     * Back end 
       * Photo storage
