@@ -1,10 +1,8 @@
 # PhotoLapse Product Overview
 
 [//]: # (TODO Leaving this here until a logo is developed)
-[![Temporary Logo](https://avatars2.githubusercontent.com/u/6445467?s=40&v=4)](https://github.com/pouneh)
+[![Temporary Logo](https://avatars2.githubusercontent.com/u/37767905?s=40&v=4)](https://github.com/pouneh)
 
-[//]: # (TODO Leaving this here until the CI-CD pipeline is setup)
-[![Build Status](https://travis-ci.org/pouneh)](https://travis-ci.org/pouneh)
 
 # POC:
 Take a series of pictures and have them be displayed as a photo lapse GIF.
@@ -34,9 +32,9 @@ Many users should be able to create their own cloud-based collections to create 
 
 # Technical Reqs
 
-1.	GREEN Back end/ processing unit for assembling the video or gif 
-    a.	GIF seems to be the place to start, add option for video later
-    b.	Use Python as backend programming language
+1.	GREEN Back end/ processing unit for assembling the video or gif
+    [x] GIF seems to be the place to start, add option for video later
+    [x] Use Python as backend programming language
 2.	YELLOW Web App (cloud based? Docker or leveraging cloud provider stuff)
     * Back end 
       * Photo storage
