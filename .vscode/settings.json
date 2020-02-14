@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "C:\\Users\\poaghaba\\AppData\\Local\\Continuum\\miniconda3\\envs\\fopy\\python.exe"
+    "python.pythonPath": "C:\\Users\\poaghaba\\AppData\\Local\\Continuum\\miniconda3\\envs\\fopy\\python.exe",
+    "python.terminal.activateEnvironment": true
 }

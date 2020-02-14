@@ -33,31 +33,31 @@ Many users should be able to create their own cloud-based collections to create 
 # Technical Reqs
 
 1.	GREEN Back end/ processing unit for assembling the video or gif
-    * \[x] GIF seems to be the place to start, add option for video later
-    * \[x] Use Python as backend programming language
+    * [x] GIF seems to be the place to start, add option for video later
+    * [x] Use Python as backend programming language
 2.	YELLOW Web App (cloud based? Docker or leveraging cloud provider stuff)
-    * \[ ] Back end 
-      * \[ ] Photo storage
-        * \[ ] Cloud Database – need date/time and location
-      * \[ ] Photo manipulation
-        * \[ ] Stabilization algorithm
-        * \[ ] Landscape vs portrait photos?
-        * \[ ] Option for beautifying images? (lighting…)
-      * \[ ] Animation assembly (per location)
-        * \[ ] Allow for filtering the experience (time range, time of day, etc)
-        * \[ ] Specify a maximum size/length for the animation (we can filter out pictures based on that)
-        * \[ ] How fast can I assemble? Can I leverage prior animations? Do I store assembled animations to 
-      * \[ ] RED  account creation
-      * \[ ] RED account authentication
-      * \[ ] RED Privacy restrictions on uploading/viewing/modifying photostores
-    * \[ ] Front end
-      * \[ ] PUT (options to upload image)
-      * \[ ] GET most recent images in the location so user can compare
-      * \[ ] GET animation based on filters
-      * \[ ] RED login/account creation
-      * \[ ] RED UI for location collection privacy
+    * [ ] Back end 
+      * [ ] Photo storage
+        * [ ] Cloud Database – need date/time and location
+      * [ ] Photo manipulation
+        * [ ] Stabilization algorithm
+        * [ ] Landscape vs portrait photos?
+        * [ ] Option for beautifying images? (lighting…)
+      * [ ] Animation assembly (per location)
+        * [ ] Allow for filtering the experience (time range, time of day, etc)
+        * [ ] Specify a maximum size/length for the animation (we can filter out pictures based on that)
+        * [ ] How fast can I assemble? Can I leverage prior animations? Do I store assembled animations to 
+      * [ ] RED  account creation
+      * [ ] RED account authentication
+      * [ ] RED Privacy restrictions on uploading/viewing/modifying photostores
+    * [ ] Front end
+      * [ ] PUT (options to upload image)
+      * [ ] GET most recent images in the location so user can compare
+      * [ ] GET animation based on filters
+      * [ ] RED login/account creation
+      * [ ] RED UI for location collection privacy
 3.  RED Phone apps!
-    * \[ ] UI elements in Web App front end
-    * \[ ] Delay upload until connection available
+    * [ ] UI elements in Web App front end
+    * [ ] Delay upload until connection available
 
  

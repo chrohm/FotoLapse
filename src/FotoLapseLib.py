@@ -15,10 +15,3 @@ def photo_filename_to_numpy_arr(photo_path):
     pic = Image.open(photo_path)
     pic = numpy.asarray(pic)
     return pic
-
-
-image_list = get_photos_paths_in_dir_as_list(Path.cwd()/"assets/Photos")
-clip = mpy.ImageSequenceClip(list(map(photo_filename_to_numpy_arr, image_list)), fps=10)
-clip.write_videofile("purple2.mp4", fps=20)
-
-#clip.write_gif("purple.gif", fps =20)
